@@ -1,4 +1,4 @@
-FROM jokyo3/probingai:v1.17.1
+FROM jokyo3/probingai:v1.18.2
 #ENV BING_PROXY_DM="https://www.bing.com"
 #ENV SYDNEY_PROXY_DM="https://sokwith-nbing.hf.space"
 #ENV Go_Proxy_BingAI_USER_TOKEN_1="ASDFGHJKLASDFQWERTVFRVDFBCBVXCXB"
